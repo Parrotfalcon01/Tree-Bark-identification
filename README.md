@@ -2,6 +2,7 @@
 
 This project is a attmpt to get a AI to identify 20 diffrent types of tree bark and get it to out put what it thinks the awnser is 
 the key to it is:
+```bash
 'BOJ' : Yellow birch",
 'BOP' : White birch",
 'CHR' : Northern red oak",
@@ -22,6 +23,7 @@ the key to it is:
 'PRU' : Eastern Hemlock",
 'SAB' : Balsam fir",
 'THO' : Northern white cedar",
+```
 
 ![add image descrition here](direct image link here)
 
