@@ -35,4 +35,4 @@ to run this project I downloded the data set at https://www.kaggle.com/datasets/
 
 the libraries installed were python3-numpy
 
-[View a video explanation here](video link)
+https://drive.google.com/file/d/1QpjLAtzoy5l4wCM2g_YsZUbQ4SoZyIrU/view?usp=sharing
